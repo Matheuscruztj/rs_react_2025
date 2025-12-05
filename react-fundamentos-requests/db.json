@@ -15,18 +15,6 @@
     {
       "id": "foo",
       "name": "Foo Bar"
-    },
-    {
-      "id": "a",
-      "name": "aaaa"
-    },
-    {
-      "id": "b",
-      "name": "bbbbb"
-    },
-    {
-      "id": "c",
-      "name": "ccc"
     }
   ]
 }
