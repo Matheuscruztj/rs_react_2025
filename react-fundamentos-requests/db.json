@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "gus",
+      "name": "Gustavo"
+    },
+    {
+      "id": "hele",
+      "name": "Helena"
+    },
+    {
+      "id": "tony",
+      "name": "antonio"
+    },
+    {
+      "id": "foo",
+      "name": "Foo Bar"
+    },
+    {
+      "id": "a",
+      "name": "aaaa"
+    },
+    {
+      "id": "b",
+      "name": "bbbbb"
+    },
+    {
+      "id": "c",
+      "name": "ccc"
+    }
+  ]
+}
